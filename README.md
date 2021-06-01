@@ -65,3 +65,31 @@ For the code example, please refer to the [LayoutXLM repository](https://github.
 | RE  | `xlm-roberta-base` | 0.3638     | 0.6797     | 0.6829     | 0.6828     | 0.6727     | 0.6937     | 0.6887     | 0.6082     | 0.6341     |
 |     | `infoxlm-base`     | 0.3699     | 0.6493     | 0.6473     | 0.6828     | 0.6831     | 0.6690     | 0.6384     | 0.5763     | 0.6145     |
 |     | `layoutxlm-base`   | **0.6671** | **0.8241** | **0.8142** | **0.8104** | **0.8221** | **0.8310** | **0.7854** | **0.7044** | **0.7823** |
+
+## Citation
+
+If you find LayoutXLM useful in your research, please cite the following paper:
+
+``` latex
+@article{Xu2020LayoutXLMMP,
+  title         = {LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding},
+  author        = {Yiheng Xu and Tengchao Lv and Lei Cui and Guoxin Wang and Yijuan Lu and Dinei Florencio and Cha Zhang and Furu Wei},
+  year          = {2021},
+  eprint        = {2104.08836},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL}
+}
+```
+
+## License
+
+The content of this project itself is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Portions of the source code are based on the [transformers](https://github.com/huggingface/transformers) project.
+[Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct)
+
+### Contact Information
+
+For help or issues using LayoutXLM, please submit a GitHub issue.
+
+For other communications related to LayoutXLM, please contact Lei Cui (`lecu@microsoft.com`), Furu Wei (`fuwei@microsoft.com`).
+
