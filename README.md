@@ -68,7 +68,7 @@ For the code example, please refer to the [LayoutXLM repository](https://github.
 
 ## Citation
 
-If you find LayoutXLM useful in your research, please cite the following paper:
+If you find XFUN useful in your research, please cite the following paper:
 
 ``` latex
 @article{Xu2020LayoutXLMMP,
@@ -89,7 +89,7 @@ Portions of the source code are based on the [transformers](https://github.com/h
 
 ### Contact Information
 
-For help or issues using LayoutXLM, please submit a GitHub issue.
+For help or issues using XFUN, please submit a GitHub issue.
 
-For other communications related to LayoutXLM, please contact Lei Cui (`lecu@microsoft.com`), Furu Wei (`fuwei@microsoft.com`).
+For other communications related to XFUN, please contact Lei Cui (`lecu@microsoft.com`), Furu Wei (`fuwei@microsoft.com`).
 
