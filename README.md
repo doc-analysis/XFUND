@@ -1,12 +1,12 @@
-# XFUN: A Multilingual Form Understanding Benchmark
+# XFUND: A Multilingual Form Understanding Benchmark
 
 ## Introduction
 
-XFUN is a multilingual form understanding benchmark dataset that includes human-labeled forms with key-value pairs in 7 languages (Chinese, Japanese, Spanish, French, Italian, German, Portuguese).
+XFUND is a multilingual form understanding benchmark dataset that includes human-labeled forms with key-value pairs in 7 languages (Chinese, Japanese, Spanish, French, Italian, German, Portuguese).
 
 ## Download
 
-- XFUN v1.0: https://github.com/doc-analysis/XFUN/releases/tag/v1.0
+- XFUND v1.0: https://github.com/doc-analysis/XFUND/releases/tag/v1.0
 
 ## Statistics
 
@@ -68,7 +68,7 @@ For the code example, please refer to the [LayoutXLM repository](https://github.
 
 ## Citation
 
-If you find XFUN useful in your research, please cite the following paper:
+If you find XFUND useful in your research, please cite the following paper:
 
 ``` latex
 @article{Xu2020LayoutXLMMP,
@@ -89,7 +89,7 @@ Portions of the source code are based on the [transformers](https://github.com/h
 
 ### Contact Information
 
-For help or issues using XFUN, please submit a GitHub issue.
+For help or issues using XFUND, please submit a GitHub issue.
 
-For other communications related to XFUN, please contact Lei Cui (`lecu@microsoft.com`), Furu Wei (`fuwei@microsoft.com`).
+For other communications related to XFUND, please contact Lei Cui (`lecu@microsoft.com`), Furu Wei (`fuwei@microsoft.com`).
 
